@@ -73,9 +73,9 @@ Install mitmproxy from [official site](https://mitmproxy.org/). Mitmproxy instal
 
 Open elevated command prompt (Windows key + R, type `cmd` and press Ctrl + Shift + Enter)
 
-Generate certificates by running mitproxy the first time:
+Generate certificates by running mitmproxy the first time:
 ```
-mitproxy.exe
+mitmproxy.exe
 ```
 
 Install mitmproxy certificate:
